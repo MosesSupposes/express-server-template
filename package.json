@@ -14,5 +14,8 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.15.3"
+  },
+  "devDependencies": {
+    "pug": "^2.0.0-rc.2"
   }
 }
